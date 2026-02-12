@@ -1,12 +1,15 @@
 ## Hi, I'm Grishika 👋
+Data Analyst transitioning from Finance with experience analyzing
+financial and operational datasets to uncover trends, risks, and
+revenue opportunities.
 
-Aspiring Data Analyst with hands-on experience in SQL, Power BI, and Excel.
-I work on real-world data analysis projects involving financial and business datasets.
+Skilled in SQL, Excel, and Power BI for data cleaning, analysis,
+and dashboard development.
 
-🔹 Skills: SQL | Power BI | Excel | MySQL  
-🔹 Projects: Bank Loan Analysis, Sales Performance Analysis, Zepto SQL Analysis  
-🔹 Background: Accounting & Finance → Data Analytics
+Projects focus on real-world business cases including loan risk
+analysis, sales performance optimization, and quick-commerce
+pricing insights.
 
-📫 My GitHub repositories showcase my analytical and SQL skills.
+Actively seeking entry-level Data Analyst / MIS / Business Analyst roles.
 
 
